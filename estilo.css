@@ -1,0 +1,100 @@
+body {
+    background-color:rgb(233, 227, 235) ;
+}
+
+h1 {
+    color:rgb(25, 25, 112) ;
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 40px;
+    margin-bottom: 55px;
+}
+
+p  { font-size: 20px;
+    text-align: justify;
+    
+    
+}
+
+.cores li {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: rgb(105, 9, 81);
+    background-color: rgba(122, 118, 83, 0.199);
+    width: fit-content;
+}
+
+
+.cor {
+    font-size: 35px;
+    color: rgb(94, 94, 139);
+    text-align: center;
+
+}    
+#cor2 {
+    font-size: 35px;
+    color: rgb(94, 94, 139);
+    margin-top: 70px;
+
+}
+#cor3{
+    margin-top: 100px;
+    font-size: 35px;
+    color: rgb(94, 94, 139);
+}
+
+
+img {
+    width: 300px;
+    height: 200px;
+    
+}
+
+.arredondada{
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border-bottom: 2px grey;
+    height: auto;
+    margin-top: 20px;
+    
+
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    margin:0 auto;
+    background-color: rgb(209, 193, 193);
+    font-size: 18px;
+    color: rgb(68, 35, 12);
+     
+}
+
+table img{
+    width: 400px;
+    height: 350px;
+}
+
+caption{
+    font-size: 30px;
+    color: rgb(94, 94, 139);
+    margin-bottom: 10px;
+}
+
+a {
+    color: rgb(2, 24, 83);
+
+}
+a:hover{
+    color: brown;
+}
+#mensagem{
+    font-size: 12px;
+    color: brown;
+    font-family:'Courier New', Courier, monospace
+}
+
+
+
